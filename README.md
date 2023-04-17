@@ -5,7 +5,7 @@ Implementation of the Mathematical Model of Predictive Analysis, Simple Linear R
 
 ### Introduction
 **What is Linear Regression?**
-Linear regression quantifies the relationship between one or more predictor variable(s) and one outcome variable. Linear regression is commonly used for predictive analysis and modeling. For example, it can be used to quantify the relative impacts of age, gender, and diet (the predictor variables) on height (the outcome variable).  Linear regression is also known as multiple regression, multivariate regression, ordinary least squares (OLS), and regression. This post will show you examples of linear regression, including an example of simple linear regression and an example of multiple linear regression.
+Linear regression quantifies the relationship between one or more predictor variable(s) and one outcome variable. Linear regression is commonly used for predictive analysis and modeling. For example, it can be used to quantify the relative impacts of age, gender, and diet (the predictor variables) on height (the outcome variable).  Linear regression is also known as multiple regression, multivariate regression, ordinary least squares (OLS), and regression. 
 
 ### References
 [1]	T. Bock, “What is Linear regression?”, Displayr, 05-abr-2018. [En línea]. Disponible en: https://www.displayr.com/what-is-linear-regression/. [Consultado: 17-abr-2023].
